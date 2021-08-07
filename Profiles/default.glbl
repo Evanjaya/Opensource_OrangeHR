@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Site URL</description>
+      <initValue>'https://opensource-demo.orangehrmlive.com/index.php/auth/login'</initValue>
+      <name>siteURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>short wait time wait value</description>
+      <initValue>3</initValue>
+      <name>waitShort</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>medium wait time value</description>
+      <initValue>5</initValue>
+      <name>waitMed</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>long wait time value</description>
+      <initValue>10</initValue>
+      <name>waitLong</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>screenshot directory</description>
+      <initValue>'E:\\Edmi_Test\\Edmi Entrance Test\\Screenshot\\'</initValue>
+      <name>screenshotDir</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>data file directory</description>
+      <initValue>'E:\\Edmi_Test\\Edmi Entrance Test\\XLS Data Files\\'</initValue>
+      <name>xlsDir</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>attachment directory</description>
+      <initValue>'E:\\Edmi_Test\\Edmi Entrance Test\\Attachment File\\'</initValue>
+      <name>attachDir</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>sheetDir</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
